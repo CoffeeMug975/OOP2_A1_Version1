@@ -1,0 +1,8 @@
+C:\Users\danie\Desktop\letsTry\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\letsTry\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\letsTry\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\danie\Desktop\letsTry\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\dmsal\Downloads\Assignment1SkeletonDan\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmsal\Downloads\Assignment1SkeletonDan\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\dmsal\Downloads\Assignment1SkeletonDan\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\dmsal\Downloads\Assignment1SkeletonDan\Assignment1SkeletonDan\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
